@@ -17,7 +17,6 @@ This project is a simple assignment project for DCverse. It provides an intuitiv
 - Customize avatar images (upload or drag-and-drop)
 - Set social media platforms and demographics
 - Responsive design works on desktop and mobile
-- Light/dark mode support
 
 ## 🛠️ Technologies
 
