@@ -1,7 +1,7 @@
 # AI Avatar Dashboard
 
 <p align="center">
-  <img src="public/dc-logo.png" alt="DCverse Logo" width="150" />
+  <img src="public/logo.webp" alt="DCverse Logo" width="150" />
 </p>
 
 A modern web application for managing AI-generated avatars, built with Next.js and Tailwind CSS.
